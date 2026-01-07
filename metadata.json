@@ -1,0 +1,7 @@
+{
+  "name": "Tu Guía Vibracional",
+  "description": "Un asistente de motivación personal basado en la 'Matemática de la Manifestación' y la 'Ley de la Conciencia', diseñado para elevar tu vibración y recordarte que eres el arquitecto de tu realidad.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
